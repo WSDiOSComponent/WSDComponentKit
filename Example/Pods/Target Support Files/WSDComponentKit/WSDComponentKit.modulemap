@@ -1,0 +1,6 @@
+framework module WSDComponentKit {
+  umbrella header "WSDComponentKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

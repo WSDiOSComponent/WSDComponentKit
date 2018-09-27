@@ -1,0 +1,16 @@
+PODS:
+  - WSDComponentKit (0.1.0)
+
+DEPENDENCIES:
+  - WSDComponentKit (from `../`)
+
+EXTERNAL SOURCES:
+  WSDComponentKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSDComponentKit: 2059f2aae0481a60c8f7790698e349f812a1c666
+
+PODFILE CHECKSUM: 159b0ccc50009f2144754f07882b85cc6408c724
+
+COCOAPODS: 1.5.0
