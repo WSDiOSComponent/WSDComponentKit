@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSDComponentKit_Example' do
+  pod 'WSDComponentKit', :path => '../'
+
+  target 'WSDComponentKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
